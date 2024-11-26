@@ -1,0 +1,26 @@
+h1{
+    background: green;
+    color: black;
+}
+
+#recipe1{
+    font-size: 24px;
+    background-color: yellow;
+    color: red;
+}
+
+.recipe2{
+    font-size: 24px;
+    background-color: yellowgreen;
+    color: black;
+}
+
+a{
+    color: black;
+    background-color: cyan;
+    font-size: 24px;
+}
+
+h4{
+    text-align: center;
+}
